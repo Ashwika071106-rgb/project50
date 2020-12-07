@@ -1,0 +1,23 @@
+
+h1 {
+    background-color: lightsalmon;
+    color:darkgoldenrod;
+}
+.header {
+    color:darkgoldenrod;
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-evenly;   
+}
+.grid {
+    background-color: lightseagreen;
+    color:darkgoldenrod;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+p, h2 {
+    background-color: lightcoral;
+    color:darkgoldenrod;
+    text-align: center;
+}
